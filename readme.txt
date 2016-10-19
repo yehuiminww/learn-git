@@ -6,4 +6,4 @@ git tracks changes.
 git tracks changes of files.
 creating a new branch is quick and simple.
 git is quick AND simple.
-
+no fast forward 
